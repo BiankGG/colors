@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: black;
 }
 
 /* CSS de regalo */
@@ -28,7 +29,7 @@
   height: 200px;
   border-width: 1px;
   border-style: solid;
-  color: white;
+  color: white
 }
 
 /* Estilos para el input */
